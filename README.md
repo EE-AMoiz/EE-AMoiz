@@ -15,15 +15,11 @@
 
 ---
 
-> **"A model that only runs on my machine is a hypothesis. A model someone else can run is an answer."**
-
----
-
 ### About me
 
-I'm an AI Engineer and Graduate AI Researcher — **M.S. in Computer Science and Technology, Northwestern Polytechnical University** (Chinese Government Scholarship), recognized with the **Outstanding Graduate Award & Star of Academic Achievement**.
-
-My work spans the full applied-AI stack: **RAG pipelines and LLM applications**, **computer vision and monocular depth estimation**, **3D reconstruction and Gaussian Splatting SLAM**, and **generative AI prototypes**. I co-authored a **Q1 SCI publication in the IEEE Internet of Things Journal**, and I'm currently extending my work into cloud deployment and agentic AI frameworks to push applied AI further into production.
+<p align="justify">
+I'm an AI Engineer and Graduate AI Researcher — <b>M.S. in Computer Science and Technology, Northwestern Polytechnical University</b> (Chinese Government Scholarship), recognized with the <b>Outstanding Graduate Award &amp; Star of Academic Achievement</b>. My work spans the full applied-AI stack: <b>RAG pipelines and LLM applications</b>, <b>computer vision and monocular depth estimation</b>, <b>3D reconstruction and Gaussian Splatting SLAM</b>, and <b>generative AI prototypes</b>. I co-authored a <b>Q1 SCI publication in the IEEE Internet of Things Journal</b>, and I'm currently extending my work into cloud deployment and agentic AI frameworks to push applied AI further into production.
+</p>
 
 - 🔭 **Currently:** monocular-to-stereo generation via depth + diffusion inpainting, and submap Gaussian SLAM for drone imagery
 - 🌱 **Learning:** agentic AI frameworks, Docker/FastAPI deployment, and cloud MLOps
@@ -75,7 +71,7 @@ My work spans the full applied-AI stack: **RAG pipelines and LLM applications**,
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[AiSpea — LLM-Powered Smart Toy Dashboard](https://abdulmoizahsan.vercel.app/projects/aispea-smart-toy-dashboard)** 🏆 | Parent-facing dashboard analyzing child–toy conversation logs for language development and emotion trends, built on a FAISS + gemma-3-4b RAG pipeline. Led a 5-person team to **Second Prize & national Top 16** against 100+ teams. | Python · FAISS · RAG · gemma-3-4b · Streamlit |
-| **[Monocular-to-Stereo Generation](https://abdulmoizahsan.vercel.app/projects/monocular-to-stereo)** | Converts a single RGB image into left/right stereo views using monocular depth, disparity warping, occlusion masks, and diffusion inpainting to clean up disoccluded regions. | PyTorch · DepthPro · Depth Anything V2 · Diffusion |
+| **[Monocular-to-Stereo Generation](https://github.com/EE-AMoiz/Mono-to-Stereo-Image-Conversion)** | Converts a single RGB image into left/right stereo views using monocular depth, disparity warping, occlusion masks, and diffusion inpainting to clean up disoccluded regions. | PyTorch · DepthPro · Depth Anything V2 · Diffusion |
 | **[Feed-Forward Submap Gaussian SLAM](https://abdulmoizahsan.vercel.app/projects/gaussian-slam-drone)** | Submap-based Gaussian SLAM that reduces drift and holds reconstruction consistency across long drone flight trajectories, with depth priors and redundancy suppression. | PyTorch · 3D Gaussian Splatting · SLAM |
 | **[3D Reconstruction & Gaussian Splatting](https://abdulmoizahsan.vercel.app/projects/3d-reconstruction-gaussian-splatting)** | Multi-view reconstruction of human heads and outdoor UAV scenes — capture planning, pose recovery, dense MVS, and 3DGS refinement for free-viewpoint rendering. | MVG/MVS · 3DGS · MeshLab · Unreal Engine |
 | **[Gender Bias in Search Engines](https://abdulmoizahsan.vercel.app/projects/gender-bias-search-engines)** | Automated cross-engine image-retrieval pipeline quantifying gender-representation bias across 3 search engines and 10 countries. | DeepFace · OpenCV · pandas · Responsible AI |
@@ -100,22 +96,16 @@ My work spans the full applied-AI stack: **RAG pipelines and LLM applications**,
 - 🥈 **Second Prize & National Top 16**, Global AI Innovation Competition, 2025 (100+ teams)
 - 🎖 **Wu Yajun Scholarship**, NPU, 2024
 - 🌏 **Chinese Government Scholarship** — full graduate funding, 2023
-- 👥 **IEEE Operations Director & Social Media Director**, NUST, 2019–2023
+- 🥇 **1st Position, National Electronics Olympiad (NEO)** — hosted by IEEE, 2021
 
 ---
 
 ### 📜 Certifications
 
-[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/verify/JZOMGSWMWZWB) (Coursera) · [3D Reconstruction](https://www.coursera.org/account/accomplishments/verify/FUBJY2LHZWVK) (Coursera) · [Python for Data Science](https://www.coursera.org/account/accomplishments/verify/C8MDYSJM6NG3) (IBM) · [OpenCV Bootcamp](https://courses.opencv.org/certificates/bbcf16e4e2344bfeaa671b91643a424f) (OpenCV)
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EE-AMoiz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EE-AMoiz&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
+- **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/verify/JZOMGSWMWZWB)** — Coursera
+- **[3D Reconstruction](https://www.coursera.org/account/accomplishments/verify/FUBJY2LHZWVK)** — Coursera
+- **[Python for Data Science](https://www.coursera.org/account/accomplishments/verify/C8MDYSJM6NG3)** — IBM · Coursera
+- **[OpenCV Bootcamp](https://courses.opencv.org/certificates/bbcf16e4e2344bfeaa671b91643a424f)** — OpenCV
 
 ---
 
