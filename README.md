@@ -24,7 +24,7 @@ I'm an AI Engineer and Graduate AI Researcher — <b>M.S. in Computer Science an
 - 🔭 **Currently:** monocular-to-stereo generation via depth + diffusion inpainting, and submap Gaussian SLAM for drone imagery
 - 🌱 **Learning:** agentic AI frameworks, Docker/FastAPI deployment, and cloud MLOps
 - 💬 **Ask me about:** RAG systems, depth estimation, 3D Gaussian Splatting, SLAM
-- 📫 **Reach me:** [abdulmoiz.ahsan@gmail.com](mailto:abdulmoiz.ahsan@gmail.com) · 📍 Gujrat, Pakistan · **open to AI/ML engineering and research roles**
+- 📫 **Reach me:** [abdulmoiz.ahsan@gmail.com](mailto:abdulmoiz.ahsan@gmail.com) **open to AI/ML engineering and research roles**
 
 ---
 
